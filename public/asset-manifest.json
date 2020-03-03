@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fasp-react-js-pwa/static/css/main.1e375d45.chunk.css",
+    "main.js": "/fasp-react-js-pwa/static/js/main.9bc58189.chunk.js",
+    "main.js.map": "/fasp-react-js-pwa/static/js/main.9bc58189.chunk.js.map",
+    "runtime-main.js": "/fasp-react-js-pwa/static/js/runtime-main.2a1a8530.js",
+    "runtime-main.js.map": "/fasp-react-js-pwa/static/js/runtime-main.2a1a8530.js.map",
+    "static/js/2.d0433f98.chunk.js": "/fasp-react-js-pwa/static/js/2.d0433f98.chunk.js",
+    "static/js/2.d0433f98.chunk.js.map": "/fasp-react-js-pwa/static/js/2.d0433f98.chunk.js.map",
+    "index.html": "/fasp-react-js-pwa/index.html",
+    "precache-manifest.13bb1508d9c93effd9d80fa4e1f4e85f.js": "/fasp-react-js-pwa/precache-manifest.13bb1508d9c93effd9d80fa4e1f4e85f.js",
+    "service-worker.js": "/fasp-react-js-pwa/service-worker.js",
+    "static/css/main.1e375d45.chunk.css.map": "/fasp-react-js-pwa/static/css/main.1e375d45.chunk.css.map",
+    "static/js/2.d0433f98.chunk.js.LICENSE": "/fasp-react-js-pwa/static/js/2.d0433f98.chunk.js.LICENSE",
+    "static/media/theme-default.css": "/fasp-react-js-pwa/static/media/wall_1.17165588.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a1a8530.js",
+    "static/js/2.d0433f98.chunk.js",
+    "static/css/main.1e375d45.chunk.css",
+    "static/js/main.9bc58189.chunk.js"
+  ]
+}
