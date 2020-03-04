@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/palashSprint1/static/css/main.9b8c0176.chunk.css",
-    "main.js": "/palashSprint1/static/js/main.28060da4.chunk.js",
-    "main.js.map": "/palashSprint1/static/js/main.28060da4.chunk.js.map",
-    "runtime-main.js": "/palashSprint1/static/js/runtime-main.68709639.js",
-    "runtime-main.js.map": "/palashSprint1/static/js/runtime-main.68709639.js.map",
-    "static/css/2.3564eac7.chunk.css": "/palashSprint1/static/css/2.3564eac7.chunk.css",
-    "static/js/2.297a2891.chunk.js": "/palashSprint1/static/js/2.297a2891.chunk.js",
-    "static/js/2.297a2891.chunk.js.map": "/palashSprint1/static/js/2.297a2891.chunk.js.map",
-    "index.html": "/palashSprint1/index.html",
-    "precache-manifest.9720635d81f413b4615eed0a334d183d.js": "/palashSprint1/precache-manifest.9720635d81f413b4615eed0a334d183d.js",
-    "service-worker.js": "/palashSprint1/service-worker.js",
-    "static/css/2.3564eac7.chunk.css.map": "/palashSprint1/static/css/2.3564eac7.chunk.css.map",
-    "static/css/main.9b8c0176.chunk.css.map": "/palashSprint1/static/css/main.9b8c0176.chunk.css.map",
-    "static/js/2.297a2891.chunk.js.LICENSE": "/palashSprint1/static/js/2.297a2891.chunk.js.LICENSE",
-    "static/js/main.28060da4.chunk.js.LICENSE": "/palashSprint1/static/js/main.28060da4.chunk.js.LICENSE",
-    "static/media/theme-default.css": "/palashSprint1/static/media/wall_1.17165588.jpg",
-    "static/media/Customui.css": "/palashSprint1/static/media/login-screen.d5058339.jpg"
+    "main.css": "/fasp/static/css/main.c46f3b35.chunk.css",
+    "main.js": "/fasp/static/js/main.d6cc87f8.chunk.js",
+    "main.js.map": "/fasp/static/js/main.d6cc87f8.chunk.js.map",
+    "runtime-main.js": "/fasp/static/js/runtime-main.90172222.js",
+    "runtime-main.js.map": "/fasp/static/js/runtime-main.90172222.js.map",
+    "static/css/2.3564eac7.chunk.css": "/fasp/static/css/2.3564eac7.chunk.css",
+    "static/js/2.297a2891.chunk.js": "/fasp/static/js/2.297a2891.chunk.js",
+    "static/js/2.297a2891.chunk.js.map": "/fasp/static/js/2.297a2891.chunk.js.map",
+    "index.html": "/fasp/index.html",
+    "precache-manifest.7e82d9e696bc3a0e2c0e0c50fb610589.js": "/fasp/precache-manifest.7e82d9e696bc3a0e2c0e0c50fb610589.js",
+    "service-worker.js": "/fasp/service-worker.js",
+    "static/css/2.3564eac7.chunk.css.map": "/fasp/static/css/2.3564eac7.chunk.css.map",
+    "static/css/main.c46f3b35.chunk.css.map": "/fasp/static/css/main.c46f3b35.chunk.css.map",
+    "static/js/2.297a2891.chunk.js.LICENSE": "/fasp/static/js/2.297a2891.chunk.js.LICENSE",
+    "static/js/main.d6cc87f8.chunk.js.LICENSE": "/fasp/static/js/main.d6cc87f8.chunk.js.LICENSE",
+    "static/media/theme-default.css": "/fasp/static/media/wall_1.17165588.jpg",
+    "static/media/Customui.css": "/fasp/static/media/login-screen.d5058339.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.68709639.js",
+    "static/js/runtime-main.90172222.js",
     "static/css/2.3564eac7.chunk.css",
     "static/js/2.297a2891.chunk.js",
-    "static/css/main.9b8c0176.chunk.css",
-    "static/js/main.28060da4.chunk.js"
+    "static/css/main.c46f3b35.chunk.css",
+    "static/js/main.d6cc87f8.chunk.js"
   ]
 }
