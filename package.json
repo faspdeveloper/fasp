@@ -18,7 +18,7 @@
     "jquery": "^3.4.1",
     "jquery-mask-plugin": "^1.14.16",
     "jquery-validation": "^1.19.1",
-    "jsuites": "^2.7.1",
+    "jsuites": "^4.9.11",
     "jszip": "^3.2.2",
     "jwt-decode": "^2.2.0",
     "moment": "^2.24.0",
